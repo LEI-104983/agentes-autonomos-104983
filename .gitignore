@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+.DS_Store
+
+# relatorio nao vai para o repositorio (entregue no Moodle)
+relatorio/

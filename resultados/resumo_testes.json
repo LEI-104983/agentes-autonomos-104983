@@ -1,0 +1,252 @@
+{
+  "labirinto": {
+    "0": {
+      "Fixo": {
+        "n_episodios": 1,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 44.0,
+        "passos_medios_sucesso": 44.0,
+        "desvio_passos": 0.0,
+        "recompensa_media": 11.908333333333333,
+        "recompensa_descontada_media": 1.0131360348771814
+      },
+      "Genético": {
+        "n_episodios": 1,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 120.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -8.000000000000002,
+        "recompensa_descontada_media": -0.697758336405272
+      },
+      "Q-learning": {
+        "n_episodios": 1,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 28.0,
+        "passos_medios_sucesso": 28.0,
+        "desvio_passos": 0.0,
+        "recompensa_media": 13.775,
+        "recompensa_descontada_media": 3.4426460069881633
+      }
+    },
+    "1": {
+      "Fixo": {
+        "n_episodios": 1,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 68.0,
+        "passos_medios_sucesso": 68.0,
+        "desvio_passos": 0.0,
+        "recompensa_media": 12.942857142857143,
+        "recompensa_descontada_media": 0.3309191236337671
+      },
+      "Genético": {
+        "n_episodios": 1,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 350.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -191.29999999999995,
+        "recompensa_descontada_media": -9.8299998243474
+      },
+      "Q-learning": {
+        "n_episodios": 1,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 60.0,
+        "passos_medios_sucesso": 60.0,
+        "desvio_passos": 0.0,
+        "recompensa_media": 13.657142857142857,
+        "recompensa_descontada_media": 0.7197858846334135
+      }
+    },
+    "2": {
+      "Fixo": {
+        "n_episodios": 1,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 404.0,
+        "passos_medios_sucesso": 404.0,
+        "desvio_passos": 0.0,
+        "recompensa_media": -11.318749999999994,
+        "recompensa_descontada_media": -0.25359147680107347
+      },
+      "Genético": {
+        "n_episodios": 1,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 800.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -439.9999999999999,
+        "recompensa_descontada_media": -10.999999999999968
+      },
+      "Q-learning": {
+        "n_episodios": 1,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 96.0,
+        "passos_medios_sucesso": 96.0,
+        "desvio_passos": 0.0,
+        "recompensa_media": 13.70625,
+        "recompensa_descontada_media": -0.10736926520959039
+      }
+    }
+  },
+  "labirinto_generalizacao": {
+    "0": {
+      "Fixo": {
+        "n_episodios": 30,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 36.266666666666666,
+        "passos_medios_sucesso": 36.266666666666666,
+        "desvio_passos": 13.343995736743256,
+        "recompensa_media": 12.810555555555558,
+        "recompensa_descontada_media": 2.621606766243571
+      },
+      "Genético": {
+        "n_episodios": 30,
+        "taxa_sucesso": 6.666666666666667,
+        "passos_medios": 113.06666666666666,
+        "passos_medios_sucesso": 16.0,
+        "desvio_passos": 25.94215788163266,
+        "recompensa_media": -47.40333333333333,
+        "recompensa_descontada_media": -5.145127211992582
+      },
+      "Q-learning": {
+        "n_episodios": 30,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 120.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -65.11999999999999,
+        "recompensa_descontada_media": -10.182826598029658
+      }
+    },
+    "1": {
+      "Fixo": {
+        "n_episodios": 30,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 122.0,
+        "passos_medios_sucesso": 122.0,
+        "desvio_passos": 44.25080036940952,
+        "recompensa_media": 8.121428571428572,
+        "recompensa_descontada_media": -0.03252177998725388
+      },
+      "Genético": {
+        "n_episodios": 30,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 350.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -190.73999999999995,
+        "recompensa_descontada_media": -9.699173969613293
+      },
+      "Q-learning": {
+        "n_episodios": 30,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 350.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -191.5333333333333,
+        "recompensa_descontada_media": -10.148739121553119
+      }
+    },
+    "2": {
+      "Fixo": {
+        "n_episodios": 30,
+        "taxa_sucesso": 100.0,
+        "passos_medios": 323.2,
+        "passos_medios_sucesso": 323.2,
+        "desvio_passos": 126.99354314294881,
+        "recompensa_media": -4.753749999999998,
+        "recompensa_descontada_media": -0.07504613764303912
+      },
+      "Genético": {
+        "n_episodios": 30,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 800.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -438.7999999999999,
+        "recompensa_descontada_media": -9.958765936210677
+      },
+      "Q-learning": {
+        "n_episodios": 30,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 800.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -439.15333333333325,
+        "recompensa_descontada_media": -10.226417798156215
+      }
+    }
+  },
+  "foraging": {
+    "0": {
+      "Fixo": {
+        "n_episodios": 15,
+        "taxa_sucesso": 86.66666666666667,
+        "passos_medios": 98.8,
+        "passos_medios_sucesso": 83.23076923076923,
+        "desvio_passos": 40.55481886697724,
+        "recompensa_media": 32.34399999999999,
+        "recompensa_descontada_media": 10.013490400975668,
+        "pontos_medios": 11.533333333333333,
+        "pontos_std": 3.556527644893104
+      },
+      "Genético": {
+        "n_episodios": 15,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 200.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -10.766666666666671,
+        "recompensa_descontada_media": 0.3704289233907012,
+        "pontos_medios": 0.4666666666666667,
+        "pontos_std": 1.0241527663824812
+      },
+      "Q-learning": {
+        "n_episodios": 15,
+        "taxa_sucesso": 13.333333333333334,
+        "passos_medios": 184.26666666666668,
+        "passos_medios_sucesso": 82.0,
+        "desvio_passos": 40.218514255115004,
+        "recompensa_media": 10.728,
+        "recompensa_descontada_media": 7.697558361057339,
+        "pontos_medios": 6.4,
+        "pontos_std": 3.8952963087977444
+      }
+    },
+    "1": {
+      "Fixo": {
+        "n_episodios": 15,
+        "taxa_sucesso": 46.666666666666664,
+        "passos_medios": 188.0,
+        "passos_medios_sucesso": 174.28571428571428,
+        "desvio_passos": 14.551059526142188,
+        "recompensa_media": 34.82000000000001,
+        "recompensa_descontada_media": 8.39691592512431,
+        "pontos_medios": 12.6,
+        "pontos_std": 7.454752399196994
+      },
+      "Genético": {
+        "n_episodios": 15,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 200.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": -12.113333333333337,
+        "recompensa_descontada_media": -0.18901696070006674,
+        "pontos_medios": 0.26666666666666666,
+        "pontos_std": 0.573488351136175
+      },
+      "Q-learning": {
+        "n_episodios": 15,
+        "taxa_sucesso": 0.0,
+        "passos_medios": 200.0,
+        "passos_medios_sucesso": NaN,
+        "desvio_passos": 0.0,
+        "recompensa_media": 6.599999999999996,
+        "recompensa_descontada_media": 4.951676075200226,
+        "pontos_medios": 3.4,
+        "pontos_std": 3.158058475287203
+      }
+    }
+  }
+}
