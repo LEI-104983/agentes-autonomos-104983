@@ -1,14 +1,14 @@
-# Simulador de SMA — Recoleção e Labirinto
+# Simulador de SMA - Recoleção e Labirinto
 
-Projeto da unidade curricular de **Agentes Autónomos** (ISCTE, 2025/26).
-Trabalho individual — nº **104983**.
+Projeto da unidade curricular de Agentes Autónomos
+Trabalho individual - nº 104983.
 
 Repositório no GitHub: https://github.com/LEI-104983/agentes-autonomos-104983
 
 ## Descrição
 
 Simulador modular de sistemas multi-agente em Python que implementa dois dos
-problemas clássicos do enunciado — **Recoleção (Foraging)** e **Labirinto** — e
+problemas clássicos do enunciado - **Recoleção (Foraging)** e **Labirinto** - e
 compara três estratégias de agente em cada um:
 
 - **Agente fixo** (sem aprendizagem): seguidor de parede no labirinto, heurística
